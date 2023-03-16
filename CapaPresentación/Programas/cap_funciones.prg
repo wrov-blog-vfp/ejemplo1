@@ -8,4 +8,8 @@ FUNCTION CAP_NUMEROS_A_LETRAS
 ENDFUNC
 *
 *
-*--- Este comentario será agregado a rama_nro_2
+FUNCTION CAP_PONER_PUNTOS
+
+ENDFUNC
+*
+*
